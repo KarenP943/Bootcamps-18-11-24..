@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "bruno_bootcamp_2898754",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
